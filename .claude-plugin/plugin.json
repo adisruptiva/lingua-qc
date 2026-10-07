@@ -1,0 +1,27 @@
+{
+  "name": "lingua-qc",
+  "version": "1.0.0",
+  "description": "Multilingual quality control for PT-BR, Spanish, English, and Italian with LLM-grade vs Delivery-grade file classification, encoding enforcement, and zero-tolerance grammar checking",
+  "author": {
+    "name": "ADisruptiva"
+  },
+  "homepage": "https://github.com/adisruptiva/lingua-qc",
+  "repository": "https://github.com/adisruptiva/lingua-qc",
+  "license": "MIT",
+  "keywords": [
+    "multilingual",
+    "grammar",
+    "portuguese",
+    "spanish",
+    "italian",
+    "encoding",
+    "utf-8",
+    "quality-control",
+    "accentuation",
+    "html",
+    "i18n",
+    "proofreading",
+    "romance-languages",
+    "delivery-grade"
+  ]
+}
